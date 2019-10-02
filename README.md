@@ -1,0 +1,1 @@
+# django-starmuni-postgresql
